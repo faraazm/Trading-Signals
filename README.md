@@ -51,7 +51,16 @@ const config = {
 ```
 
 ## Start the Project
-Simply do:
+Install dependencies:
+```
+npm install
+```
+Or if you are using Yarn:
+```
+yarn
+```
+
+Run the project:
 ```
 node index
 ```
